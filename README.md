@@ -8,8 +8,9 @@
 - Data Analysis
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jason11305&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jason11305&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jason11305&show_icons=true&theme=default&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jason11305&layout=compact&theme=default&cache_seconds=1800)
+
 
 ### 📌 Featured Projects
 - 🔹 [Leetcode-SQL-Note](https://github.com/jason11305/Leetcode-SQL-Note)

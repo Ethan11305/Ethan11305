@@ -23,6 +23,14 @@
 ![GitHub Contributions](https://ghchart.rshah.org/jason11305)
 
 
+
+## 💼 Open to Opportunities
+
+I am actively exploring **Data Engineer / Data Analyst roles**,  
+with a strong interest in **data pipelines, SQL optimization, and teaching-oriented documentation**.
+
+📫 Feel free to reach out for collaboration or opportunities.
 📫 **Always open to learning, teaching, and collaboration.**
+
 
 

@@ -26,10 +26,9 @@
 ---
 
 ## 📊 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jason11305&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=jason11305&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jason11305&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![GitHub Streak](https://streak-stats.demolab.com/?user=jason11305&theme=tokyonight&cache_seconds=1800)
 
-🔗 [View detailed contribution history on GitHub](https://github.com/jason11305)
 
 
 

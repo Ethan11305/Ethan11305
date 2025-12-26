@@ -17,9 +17,9 @@
   - Interview-oriented explanations  
 
 - 🔹 [ESG](https://github.com/Ethan11305/ESG)  
-  - SQL problem-solving notes  
-  - Query patterns & common pitfalls  
-  - Interview-oriented explanations 
+  - Implemented PDF-to-text extraction for ESG reports.
+  - Built an API workflow to classify ESG content using LLMs.
+  - Designed and iterating on a relational database schema for ESG analytics. 
 ---
 
 ## 🎯 Learning Focus

@@ -16,6 +16,10 @@
   - Query patterns & common pitfalls  
   - Interview-oriented explanations  
 
+- 🔹 [ESG](https://github.com/Ethan11305/ESG)  
+  - SQL problem-solving notes  
+  - Query patterns & common pitfalls  
+  - Interview-oriented explanations 
 ---
 
 ## 🎯 Learning Focus

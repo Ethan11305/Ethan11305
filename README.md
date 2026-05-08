@@ -1,5 +1,5 @@
 # Hi, I'm Ethan 👋  
-### SQL & Python Learner | Educator | Aspiring Data Engineer
+### Aspiring Data Engineer | DevSecOps · Docker · Python · LLM Security · Educator | Pivoting from Data Engineering
 
 
 ## 🛠 Tech Stack

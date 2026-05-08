@@ -1,5 +1,5 @@
 # Hi, I'm Ethan 👋  
-### Aspiring Data Engineer | DevSecOps · Docker · Python · LLM Security · Educator | Pivoting from Data Engineering
+### DevOps background | Python · Docker · CI/CD · LLM | Open to Opportunities
 
 
 ## 🛠 Tech Stack

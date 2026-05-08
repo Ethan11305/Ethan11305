@@ -11,10 +11,10 @@
 ---
 
 ## 📌 Featured Projects
-- 🔹 [Leetcode-SQL-Note](https://github.com/jason11305/Leetcode-SQL-Note)  
-  - SQL problem-solving notes  
-  - Query patterns & common pitfalls  
-  - Interview-oriented explanations  
+- 🔹 [my-app — CI/CD](https://github.com/Ethan11305/my-app)  
+  - Built a 6-stage GitHub Actions pipeline (lint → secret scan → SCA → Trivy fs/config/secret scan → image build & scan → registry push).
+  - Hardened container & keyless GCP authentication.
+  ---  
 
 - 🔹 [ESG](https://github.com/Ethan11305/ESG)  
   - Implemented PDF-to-text extraction for ESG reports.
